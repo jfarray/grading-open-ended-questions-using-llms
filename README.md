@@ -3,5 +3,5 @@ This repository contains the code used for the experiment on numerical grading o
 
 ## Prerequisites
 - An environment to run the Python notebook.
-- API keys for Cohere and Gemini LLMS.
+- API keys for [Cohere](https://cohere.com/) and [Gemini](https://ai.google.dev/gemini-api/docs/api-key) LLMS.
 - [Ollama](https://ollama.com/) installed to use LLama3 LLMS.
